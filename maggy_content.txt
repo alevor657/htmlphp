@@ -1,0 +1,164 @@
+<h2>Bakgrund</h2>
+
+<p>Följande artikel är skriven av Maggy Larsson och är publicerad i	"Hakarps Församlingsblad, Höst, Nr 3 - 2008". Maggy har gett sin tillåtelse att vi använder den.</p>
+
+<p>Artikeln skrevs efter att församlingen gjorde en resa till Begravningsmuséet i Ljungby. Därefter anordnade församlingen en egen utställning. Som avslutning på utställningen berättade kyrkogårdschefen och grundaren av begravningsmuséet, Ronny Holm, om gamla begravningsseder.</p>
+
+<p>Artikeln bygger på Ronny Holm's anförande och återges med hjälp av texter från Begravningsmuséet i Ljungby och från boken ”Begravningsseder i förändring”.</p>
+
+<p>Bilderna kommer från Ronny Holms samling och är redigerade av Mikael Roos som även skrivit bildtexterna samt redigerat artikel för webb-bruk.</p>
+
+
+
+<h2>Förr i tiden</h2>
+
+<p>Begravningen skedde förr i tiden ganska snart efter dödsfallet och den döde bars från hemmet till graven. Kring mitten av 1800-talet blev det allt vanligare att man körde den döde till kyrkan med häst och vagn.</p>
+
+<div class="centered">
+    <div class="box">
+        <figure>
+            <img src="img/maggy/begravning_1800.jpg" />
+        </figure>
+    </div>
+    <div class="box">
+        <figure>
+            <img src="img/maggy/likvagn_med_hast.jpg" />
+        </figure>
+    </div>
+</div>
+
+<h2>Den första likvagnen i Hakarp</h2>
+
+<p>Den första likvagnen i Hakarp tillverkades av Granlunds Vagnfabrik i Gränna. Fabriken var berömd för leveranser till hovet, Finland och Ryssland. Vagnarna gjordes helt för hand. Kyrkoherden Knut Anders Sandström (präst i Hakarp 1903-1923) skänkte vagnen till församlingen 1907. Vagnen användes i Hakarp mellan åren 1907 och 1948. Som ny kostade vagnen ca 700 kronor. Men då vagnen så småningom ansågs ”livsfarlig” med dåliga bromsar överlämnades den till länsmuseet. För 1 krona inköptes Huskvarnaförsamlingens likvagn. I Huskvarna anskaffades en likbil år 1947. Den då inköpta likvagnen finns nu i Garpa skans
+(vid Huskvarna kyrkogård).</p>
+
+<div class="centered">
+    <div class="box">
+        <figure>
+            <img src="img/maggy/likvagn.jpg" />
+            <figcaption>
+                Likvagn som finns att beskåda på Ljungby Begravningsmuseum.
+            </figcaption>
+        </figure>
+    </div>
+    <div class="box">
+        <figure>
+            <img src="img/maggy/begravningsbil.jpg" />
+            <figcaption>
+                Begravningsbil uppställd vid Ljungby Begravningsmuseum.
+            </figcaption>
+        </figure>
+    </div>
+</div>
+
+
+<h2>Begravningsbyråer</h2>
+
+<p>Begravningsbyråer fanns till en början inte. Förberedelser inför begravningen sköttes av de anhöriga och alla i byn ställde upp och stöttade på olika sätt.
+På 1880-talet fanns det bara tre begravningsfirmor i Stockholm, men redan kring sekelskiftet drygt tio. De svenska begravningsentreprenörerna organiserade sig 1922 i ett eget förbund.</p>
+
+<div class="centered">
+    <div class="box">
+        <figure>
+            <img src="img/maggy/annons_begravningsbyra.jpg" />
+        </figure>
+    </div>
+    <div class="box">
+        <figure>
+            <img src="img/maggy/begravningsbyra_skylt.jpg" />
+        </figure>
+    </div>
+    <div class="box">
+        <figure>
+            <img src="img/maggy/begravningsbyra_medarbetare.jpg" />
+            <figcaption>Begravningsbyråer är ett nytt påfund. Tidigare sköttes begravning av familj och bybor gemensamt.</figcaption>
+        </figure>
+    </div>
+
+
+</div>
+
+<h2>Begravningstavlor - minnestavlor</h2>
+
+<p>Bruket med begravningstavlor fick en allt större utbredning i början av 1800-talet och var vanligast i sydvästra Sverige, Halland, västra Småland och sydöstra Skåne. Seden upphörde under 1900-talets första decennier. Minnestavlorna består ofta av namn på den döde, födelsedatum, dödsdatum och en hyllningstext i form av en vers som omges av kors, kistor, änglar, sorgträd, urnor mm.</p>
+
+
+
+<h2>Pärlkransar</h2>
+
+<p>Kransar gjorda av glaspärlor hängdes på gravkorset eller lades på graven. Den tunna tråden med glaspärlor formades till spiraler, blad eller blommor. Bruket kom ursprungligen från Italien och Frankrike men började förekomma i Sverige under senare delen av 1800-talet. Man lade den på kistan i hemmet och sedan följde kransen kistan till gravsättningen, då man lade kransen på graven. Blommor var dyra och kunde vara svåra att anskaffa.</p>
+
+<p>Trots att metalltråden rostade och glaspärlorna kunde gå sönder av frosten varade kransarna längre än de av naturligt material. Efter en tid tog man hem kransen och förvarade den på loge eller vind för att användas vid nästa dödsfall. Först på 30-talet försvann de från kyrkogårdarna. På landsbygden kunde de dock ses ända in på 50- och 60-talen.</p>
+
+<div class="centered">
+    <div class="box">
+        <figure>
+            <img src="img/maggy/minnestavla.jpg" />
+            <figcaption>Minnestavlor var en sed som slutade brukas kring början av 1900-talet.</figcaption>
+        </figure>
+    </div>
+    <div class="box">
+        <figure>
+            <img src="img/maggy/parlkrans.jpg" />
+            <figcaption>Pärlkransar istället för blommor som utsmyckning av kistan och gravplatsen.</figcaption>
+        </figure>
+    </div>
+    <div class="box">
+        <figure>
+            <img src="img/maggy/parlkrans_vid_grav.jpg" />
+            <figcaption>Pärlkransar smyckade gravplatsen och togs efter ett tag hem igen och återanvändes vid nästa tillfälle.</figcaption>
+        </figure>
+    </div>
+</div>
+
+<h2>Gravöl</h2>
+
+<p>Att ställa till med stort kalas i sorgehuset efter begravningen var förr en självklarhet. Det är först under 1900-talets gång som begravningar och gravöl omformats till minnesstunder i form av stillsamma och lågmälda samkväm, ofta i litet format. Tidigt på begravningsdagens morgon samlades alla inbjudna gäster i sorgehuset för att äta frukost. Efter jordfästningen och gudstjänsten var det åter dags att bege sig till sorgehuset. Det var nu den stora festen skulle börja. Festens form vid ett gravöl skilde sig inte nämnvärt från ett bröllop i äldre tid.</p>
+
+<p>Gästerna skulle ha förning med sig. Vanliga matvaror i förningen var bröd, smör, ost, ägg, gröt, kött, fläsk, pudding och ostkakor. Gästerna skulle ha förning med sig tillbaka när bjudningen var över. Många gånger bestod den av smakbitar av de övriga gästernas förning men det förekom också att värdinnan ställde till med brödbak för att gästerna skulle få något med sig hem. Det var vanligt med stora begravningskringlor – sockerkringlor – av vete eller saffran. I regel var de så väl tilltagna, att de kunde hängas på armen. Ju större, desto bättre blev anseendet för värdfolket och desto mer hedrades den döde.</p>
+
+<div class="centered">
+    <div class="box">
+        <figure>
+            <img src="img/maggy/gravol.jpg" />
+            <figcaption>Minnestavlor var en sed som slutade brukas kring början av 1900-talet.</figcaption>
+        </figure>
+    </div>
+</div>
+
+<h2>Dödsannonser</h2>
+
+<p>Dödsannonser förekom i dagstidningarna först på 1850-talet. Från början hade de formen av ett kort och mycket formellt tillkännagivande. Längre fram blev det vanligt att tillfoga uppgifter om tidpunkt och plats för begravningen. I början av 1900-talet uppstod bruket att sätta ut de sörjandes förnamn i annonsen. Det blev också vanligt att referera till en bibel- eller psalmvers. På 1930-talet bortföll uträkningen av den avlidnes exakta ålder liksom uppgiften om klockslaget då döden inträffade.</p>
+
+<p>Vid tiden kring sekelskiftet kunde man se de första korsen i annonserna, men först vid mitten på 1900-talet hade korssymbolen slagit igenom helt. Nyårsaftonen 1977 förekom den första blomman i en dödsannons och idag har vi många symboler att välja bland, mer än 250 stycken. Valet av symbol motiveras oftast av att det ska passa in på den döda.</p>
+
+<div class="centered">
+    <div class="box">
+        <figure>
+            <img src="img/maggy/dodsannonser.jpg" />
+            <figcaption>Dödsannonser var mycket exakta till en början. De angav både år, månad och dagar som den döde levt.</figcaption>
+        </figure>
+    </div>
+</div>
+
+<h2>Klädsel</h2>
+
+<p>Det ansågs allmänt att de anhöriga skulle sörja den döde ett år. Under den tiden skulle festliga tillställningar undvikas. Den sörjande borde också bära en särskild klädedräkt för att utåt visa sin sorg. Svart är av traditionen sorgens färg och den svarta sorgdräkten blev vanlig i slutet av 1600-talet. Inom de borgerliga samhällsklasserna var frack och hög hatt långt fram i vår egen tid  det vanliga sorgplagget för män.</p>
+
+<div class="centered">
+    <div class="box">
+        <figure>
+            <img src="img/maggy/begravningsfolje.jpg" />
+        </figure>
+    </div>
+</div>
+<p>Det mest slående inslaget i den kvinnliga sorgdräkten har annars varit sorgslöjan, som de närmast anhöriga bar under hela sorgetiden. Slöjans längd skulle stå i proportion till sorgens ”djup”. Den svarta, kvinnliga sorgdräkten kompletterades förr i tiden av vita förkläden, en sed som först brukats i samband med hovsorg. Men många hade inte fler plagg än som de bar. För dem blev sorgförklädet en möjlighet att klä sig i sorg. Högborgerliga kvinnor bar ”Smäck och gravor”, snibbmössor med flor, vid begravningar och kondoleansvisiter.</p>
+
+<div class="centered">
+    <div class="box">
+        <figure>
+            <img src="img/maggy/sorgesloja.jpg" />
+            <figcaption>Begravning var en högtid som krävde sina kläder, här i form av en sorgeslöja. Slöjans längd angav sorgens storlek.</figcaption>
+        </figure>
+    </div>
+</div>
